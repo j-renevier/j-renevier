@@ -12,9 +12,8 @@
 
 ###
 
-<p align="left">I'm a student in software developemet in france <br><br>- 🔭 I work as a full-stack developer for a SaaS platform<br>- 📚 Currently, I'm learning so much! There's always something new to discover.</p>
+<p align="left">I'm a student in software development in france <br><br>- 🔭 I work as a full-stack developer for a SaaS platform<br>- 📚 Currently, I'm learning a lot! There's always something new to discover.</p>
 
-###
 
 <h3 align="left">🤝  Social network</h3>
 
